@@ -1,0 +1,9 @@
+bcrypt
+fastapi[standard]
+jose
+passlib
+psycopg2
+python-jose
+pydantic_settings
+python-dotenv
+SQLAlchemy
